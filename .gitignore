@@ -1,0 +1,6 @@
+.env
+ormconfig.ts
+ormconfig1.json
+node_modules
+package-lock.json
+
